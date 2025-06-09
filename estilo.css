@@ -1,11 +1,12 @@
 body{
- background-color: blueviolet;
-color:rgb(125, 51, 194)
+ background-color: rgb(189, 101, 79);
+color:rgb(189, 111, 59)
      
 }
 .cabecalho-img{
     width: 100%;
 }
-.cabecalho-img {
- width: 100%;   
+.cabecalho {
+       background-image: url()
+       
 }
