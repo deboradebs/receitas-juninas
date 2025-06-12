@@ -7,8 +7,9 @@ color:rgb(189, 111, 59)
     width: 100%;
 }
 .cabecalho {
-       background-image: url('./img/fundo.png');
-       background: no-repeat
-       background
-       
+       background-image: url('./img/img\ gg.png');
+       height: 200px;
+       background-repeat: no-repeat;
+       background-size: contain;
+      
 }
