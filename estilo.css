@@ -19,4 +19,5 @@ color:rgb(0, 0, 0)
     font-size: 64px;
     display:flex;
     background-color: rgb(233, 53, 53);
+    justify-content: center;
 }
