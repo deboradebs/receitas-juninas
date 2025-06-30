@@ -18,7 +18,7 @@ color:rgb(0, 0, 0)
 .conteudo{
     font-size: 64px;
     display:flex;
-    justify-content: center;
+    justify-content: space-between
 }
 
 .coluna2{
