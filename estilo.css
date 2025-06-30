@@ -18,11 +18,12 @@ color:rgb(0, 0, 0)
 .conteudo{
     font-size: 64px;
     display:flex;
-    background-color: rgb(233, 53, 53);
+    
     justify-content: center;
 }
 
 .coluna2{
     width: 50px;
     font-size: 100px;
+    background-color: rgb(233, 53, 53);
 }
