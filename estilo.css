@@ -23,9 +23,10 @@ color:rgb(0, 0, 0)
     font-size: 64px;
     display:flex;
     justify-content: space-between
-}
+} 
 
 .coluna2{
+    padding-right: 30px;
     width: 330px;
     font-size: 40px;
     background-color: rgb(233, 53, 53);
