@@ -26,7 +26,6 @@ color:rgb(0, 0, 0)
 } 
 
 .coluna2{
-    padding-right: 30px;
     width: 330px;
     font-size: 40px;
     background-color: rgb(233, 53, 53);
@@ -35,6 +34,7 @@ color:rgb(0, 0, 0)
     line-height: 80px;
 }
 .coluna1-img{
+    padding-right: 30px;
    width: 300px;
    border-image: 300px;
 }
