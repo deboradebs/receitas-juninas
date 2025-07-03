@@ -12,7 +12,7 @@ color:rgb(0, 0, 0)
       font-size: 40px;
       display: flex;
       justify-content: center;
-      align-content: center;
+      align-items: center;
 }
 .titulo{
     font-size: 100px;
@@ -33,6 +33,7 @@ color:rgb(0, 0, 0)
     display: flex;
     align-items: center;
     line-height: 80px;
+    color: aliceblue;
 }
 .coluna1-img{
    width: 300px;
